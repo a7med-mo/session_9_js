@@ -1,0 +1,7 @@
+// addeventlistener vs onclick
+
+1- لا يمكن عمل اكثر من حدث علي العنصر بي onClick علي عكس addeventlistener يمكن 
+عمل اكثر من حدث 
+
+2- لا يمكن عمل حدث علي عنصر سوف يتم انشاءه في المستقبل بي onClick فسوف يقوم بي انشاءه
+error علي عكس addeventlistener يمكن عمل حدث او اكثر علي عنصر 
